@@ -1,8 +1,8 @@
 # 🎁 Amigo Secreto - Sorteador Interativo
 
-[![GitHub issues](https://img.shields.io/github/issues/jmgcorreia99/sorteador-amigo-secreto)](https://github.com/jmgcorreia99/sorteador-amigo-secreto/issues)
-[![GitHub stars](https://img.shields.io/github/stars/jmgcorreia99/sorteador-amigo-secreto)](https://github.com/jmgcorreia99/sorteador-amigo-secreto/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/jmgcorreia99/sorteador-amigo-secreto)](https://github.com/jmgcorreia99/sorteador-amigo-secreto/network)
+[![GitHub issues](https://img.shields.io/github/issues/jmgcorreia99/amigo-secreto)](https://github.com/jmgcorreia99/amigo-secreto/issues)
+[![GitHub stars](https://img.shields.io/github/stars/jmgcorreia99/amigo-secreto)](https://github.com/jmgcorreia99/amigo-secreto/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jmgcorreia99/amigo-secreto)](https://github.com/jmgcorreia99/amigo-secreto/network)
 
 ## Descrição 💬
 
